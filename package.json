@@ -4,7 +4,8 @@
   "description": "Pruebas con CI- Giblab",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "cypressOnChrome":"cypress run --browser chrome"
   },
   "author": "",
   "license": "ISC",
